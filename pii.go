@@ -7,5 +7,6 @@ func Init(s string) {
 }
 
 func Any(any interface{}) (string, error) {
+	println("any...")
 	return str, nil
 }
